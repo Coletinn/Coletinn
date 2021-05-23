@@ -17,5 +17,3 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Coletinn)](https://github.com/Coletinn/github-readme-stats)
 
 <br>
-<br>
-
