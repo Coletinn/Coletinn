@@ -19,7 +19,7 @@
 
 
 <h2></h2>
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=coletinn&show_icons=true&locale=en" alt="coletinn" /></p>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)
 
 <br/>
 <br>
