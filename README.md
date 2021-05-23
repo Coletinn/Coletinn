@@ -12,6 +12,8 @@
 
 <h2>Data:</h2>
 
+![Gustavo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Coletinn&show_icons=true&theme=radical)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Coletinn)](https://github.com/Coletinn/github-readme-stats)
 
 <br>
