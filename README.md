@@ -13,7 +13,7 @@
 <a href="https://www.linkedin.com/in/gustavo-coleto-537057212"><img align="" alt="Gustavo Coleto | Linkedin" width="22px" src="https://img.icons8.com/color/2x/linkedin-2.png"/></a>
 
 <br>
-
+<br>
 <br>
 
 <h2>Data:</h2>
