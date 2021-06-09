@@ -1,6 +1,6 @@
 <h2 align="center">Olá! 👋</h2>
 
-<h3 align="center">Meu nome é Gustavo Coleto e sou estudante de Ciência da Computação na Universidade Presbiteriana Mackenzie, atualmente no terceiro semestre, e estou sempre em busca de novos aprendizados. Possuo conhecimento nas linguagens de programação HTML/CSS, Python, C++, C# e Java, com foco em desenvolvimento Web e programação orientada a objetos.
+<h3 align="center">Meu nome é Gustavo Coleto e sou estudante de Ciência da Computação na Universidade Presbiteriana Mackenzie, atualmente no terceiro semestre, e estou sempre em busca de novos aprendizados. Possuo conhecimento nas linguagens de programação HTML/CSS, Python, C++, C# e Java, com foco em programação orientada a objetos e acesso a banco de dados.
   <br>
   <br>
 👉 Atualmente estou aprendendo mais sobre MySQL</h3>
