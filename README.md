@@ -16,6 +16,7 @@
 
 <h2>Entre em contato comigo:</h2>
 <a href="https://www.linkedin.com/in/gustavo-coleto-537057212"><img align="" alt="Gustavo Coleto | Linkedin" width="22px" src="https://img.icons8.com/color/2x/linkedin-2.png"/></a>
+<a href="https://www.instagram.com/gucoleto/"><img align="" alt="Gustavo Coleto | Instagram" width="22px" src="https://img.icons8.com/color/2x/instagram-new.png"/></a>
 
 <br>
 <br>
